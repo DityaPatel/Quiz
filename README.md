@@ -6,7 +6,7 @@
 	<body>
 		<div>
 		<center>
-			<img src="quiz.jpg" width="200" height="100">
+			<h1> Welcome to Quiz competition class 6th students</h1>
 		</center>
 		</div>
 		<h1> Which one of the following is not a programming language of a computer?</h1>
